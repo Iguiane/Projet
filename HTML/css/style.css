@@ -1,0 +1,40 @@
+Text
+*{
+    margin:0px;      /*marge*/
+    padding:0px  ;
+    box-sizing: border-box;
+    color: blue;
+
+}
+/* commentaire */
+/* dans css ce sont des box */
+body{
+    background-color: aquamarine;
+
+}
+
+.b{
+    color: red;
+    font-size: 20px;/*viewportwidth*/
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;    
+    text-transform: uppercase;
+    text-shadow: 5px 5px 12px black;
+}
+.box{
+    width: 130px;
+    height: 130px;
+    background-color: blue;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box0{
+    width: 40px;
+    height: 40px;
+    background-color: blueviolet;
+    /* padding: 20px; */
+
+}
